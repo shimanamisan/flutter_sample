@@ -1,16 +1,11 @@
-# sample_dynamic_tab
+# 概要
 
-A new Flutter project.
+MVVM構成で動的にタブを管理する方法を解説するために作成したサンプルアプリケーションです。
 
-## Getting Started
+# DEMO
 
-This project is a starting point for a Flutter application.
+![Image](https://github.com/user-attachments/assets/a2bd0961-a55c-442f-906e-1a061687f052)
 
-A few resources to get you started if this is your first Flutter project:
+# 解説記事
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[ MVVM構成で動的にタブを追加する](https://blog.hn-pgtech.com/2040-04-08/)
